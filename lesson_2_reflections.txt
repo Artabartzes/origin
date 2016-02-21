@@ -1,0 +1,2 @@
+Refractions for Source Control and Version Control
+Initing creates a new repository and status tells you something.
