@@ -1,0 +1,25 @@
+Reflections for Source Control and Version Control
+1. How did viewing a diff between two versions of a file help you see the bug that was introduced?
+As I have seen many times at work, it helps pinpoint the differences quickly.
+
+2. How could having easy access to the entire history of a file make you a more efficient programmer 
+in the long term?
+Is this Common Core learning?  Obviously, you have easy comparison at your fingertips?
+
+3. What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, 
+vs having versions automatically saved, like Google Docs does?
+You can forget to commit if it is manual.  Ideally, it should be both.
+
+4. Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, 
+like Google Docs, treat each file separately?
+Because programming requires more than one file.  And because Bill Gates says so in Common Core lingo.
+
+5. How can you use the commands git log and git diff to view the history of files?
+git log shows the log of changes and git diff shows the difference (imagine that!)
+
+6. How might using version control make you more confident to make changes that could break something?
+You can easily get back to a working version, Mr. Gates.
+
+7. Now that you have your workspace set up, what do you want to try using Git for?
+eating cookies.
+
