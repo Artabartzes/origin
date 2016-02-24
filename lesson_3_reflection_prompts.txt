@@ -6,3 +6,11 @@ stay up-to-date with your remote repository?
 Well, if more than one human being is working on it, you may or may not want their changes before knowing
 what they are.  Another consideration, when would Git pull it?  Right in the middle or your changes, thereby
 overwriting them?
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+You eat with forks.  Clones fight droids.  Branches grow on trees.
+Forks are used on GitHub to make a copy of an existing repository into your account.  Clones will copy that
+remote repository locally.  Branches are like Forks, but used locally.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+You can commit and work with it offline.
